@@ -25,7 +25,7 @@ python run main.py
 
 # What to do
 
-**Agent 1:** Fine-tune with current data (tools)
+**Agent 1:** Fine-tune with current data (tools).
 
 **Agent 2:** Call Model LLM using Google Gemini API.
 
